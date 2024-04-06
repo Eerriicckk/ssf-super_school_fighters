@@ -1,0 +1,2 @@
+E:\projeto jogo\projeto jogo\jogo de lutinha\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\projeto jogo\projeto jogo\jogo de lutinha\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
